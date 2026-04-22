@@ -1,16 +1,30 @@
-# Task 01 – Iris Dataset Visualization
+## 📊 Task 01: Iris Dataset Exploration & Visualization
 
-This project focuses on exploratory data analysis (EDA) and visualization of the Iris dataset.
+### 📌 Objective
 
-## Objectives:
-- Understand dataset structure
-- Perform data cleaning
-- Create visualizations using Matplotlib and Seaborn
+Explore and visualize the Iris dataset to understand its structure, features, and relationships using Python.
 
-## Tools Used:
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+### 📁 Dataset
 
+* Iris Dataset (sepal and petal measurements for three iris species)
+
+### 🛠 Tools Used
+
+* Python
+* pandas
+* matplotlib
+* seaborn
+
+### 🔍 Work Done
+
+* Loaded and inspected the dataset using pandas
+* Examined dataset shape, columns, and summary statistics
+* Created visualizations:
+
+  * Scatter plots to analyze feature relationships
+  * Histograms to study data distribution
+  * Box plots to identify spread and outliers
+
+### ✅ Outcome
+
+This task provided insights into feature distributions and relationships, demonstrating effective use of data exploration and visualization techniques.
